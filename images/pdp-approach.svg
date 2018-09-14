@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="182px" height="183px" viewBox="0 0 182 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>pdp-approach</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="pdp-approach" transform="translate(1.000000, 1.000000)">
+            <path d="M19.2071,137.034 C7.5471,123.465 0.5001,105.817 0.5001,86.523 C0.5001,58.386 15.4871,33.749 37.9141,20.16" id="Stroke-1" stroke="#AFB5BD" stroke-width="1.5" stroke-dasharray="3,5"></path>
+            <path d="M145.3708,125.0056 C132.0048,148.3406 106.8588,164.0626 78.0398,164.0626 C65.6398,164.0626 53.9198,161.1516 43.5258,155.9766" id="Stroke-3" stroke="#AFB5BD" stroke-width="1.5" stroke-dasharray="3,5"></path>
+            <path d="M68.685,9.5429 C71.752,9.1739 74.873,8.9839 78.039,8.9839 C120.863,8.9849 155.579,43.6999 155.579,86.5239 C155.579,88.7139 155.488,90.8829 155.31,93.0269" id="Stroke-5" stroke="#AFB5BD" stroke-width="1.5" stroke-dasharray="3,5"></path>
+            <path d="M58.1597,10.8846 C60.8217,14.8246 62.3757,19.5746 62.3757,24.6876 C62.3757,38.3216 51.3227,49.3746 37.6887,49.3746 C24.0537,49.3746 13.0007,38.3216 13.0007,24.6876 C13.0007,11.0526 24.0537,0.0006 37.6887,0.0006 C46.2097,0.0006 53.7237,4.3176 58.1597,10.8846" id="Stroke-7" stroke="#ED4F7E" stroke-width="2"></path>
+            <path d="M179.2638,90.188 C179.2638,103.822 168.2108,114.875 154.5768,114.875 C140.9418,114.875 129.8888,103.822 129.8888,90.188 C129.8888,76.554 140.9418,65.501 154.5768,65.501 C168.2108,65.501 179.2638,76.554 179.2638,90.188 L179.2638,90.188 Z" id="Stroke-9" stroke="#ED4F7E" stroke-width="2"></path>
+            <polyline id="Stroke-11" stroke="#AFB5BD" stroke-width="1.5" stroke-linejoin="round" points="37.6728 19.7606 33.1468 11.3386 45.9488 15.8356 42.2238 28.2296 39.0948 22.4056"></polyline>
+            <polyline id="Stroke-13" stroke="#AFB5BD" stroke-width="1.5" stroke-linejoin="round" points="155.9271 93.0767 165.4801 93.4827 155.0781 102.1957 146.3201 92.6687 152.9261 92.9487"></polyline>
+            <polyline id="Stroke-15" stroke="#AFB5BD" stroke-width="1.5" stroke-linejoin="round" points="43.9366 155.1624 40.8256 164.2064 35.3606 151.6444 47.0646 146.0674 44.9136 152.3214"></polyline>
+            <path d="M71.3759,156.1918 C71.3759,169.8258 60.3229,180.8788 46.6889,180.8788 C33.0539,180.8788 22.0009,169.8258 22.0009,156.1918 C22.0009,142.5578 33.0539,131.5048 46.6889,131.5048 C60.3229,131.5048 71.3759,142.5578 71.3759,156.1918 L71.3759,156.1918 Z" id="Stroke-17" stroke="#ED4F7E" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
